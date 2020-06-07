@@ -9,6 +9,10 @@
     <Folder Include="Controllers\" />
     <Folder Include="Data\" />
     <Folder Include="Domain\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="Contracts\v1\" />
+    <Folder Include="Contracts\v1\Requests\" />
+    <Folder Include="Contracts\v1\Responses\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
