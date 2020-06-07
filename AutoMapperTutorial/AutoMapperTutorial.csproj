@@ -13,6 +13,7 @@
     <Folder Include="Contracts\v1\" />
     <Folder Include="Contracts\v1\Requests\" />
     <Folder Include="Contracts\v1\Responses\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
