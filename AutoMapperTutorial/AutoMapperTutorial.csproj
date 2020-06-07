@@ -15,6 +15,7 @@
     <Folder Include="Contracts\v1\Responses\" />
     <Folder Include="Services\" />
     <Folder Include="Mapping\" />
+    <Folder Include="Controllers\v1\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
